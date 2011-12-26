@@ -9,7 +9,7 @@ import cPickle as pickle
 
 # Hangman
 # Matthew Hickford
-# mh519@cam.ac.uk
+# matt.hickford@gmail.com
 # January 2009
 
 save_file = os.path.expanduser("~/.hangman.py-scores.pickled")
