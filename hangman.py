@@ -8,8 +8,6 @@ import os.path
 import cPickle as pickle
 
 # Hangman
-# Matthew Hickford
-# matt.hickford@gmail.com
 # January 2009
 
 save_file = os.path.expanduser("~/.hangman.py-scores.pickled")
